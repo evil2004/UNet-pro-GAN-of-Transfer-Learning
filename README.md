@@ -25,6 +25,13 @@ pip install -r requirements.txt
 
 ## 数据准备
 
+The datasets used in this study are publicly available at:
+
+Kvasir-SEG: here.
+CVC-ClinicDB: here.
+ETIS-LaribpolypDB: here.
+CVC-ColonDB: here.
+
 将数据集放置在 `data` 目录下。目录结构应类似于：
 
 ```
